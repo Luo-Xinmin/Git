@@ -13,5 +13,6 @@ public class Test {
         System.out.println("3333333333333");
         System.out.println("444444444");
         System.out.println("55555555");
+        System.out.println("你好呀，");
     }
 }
